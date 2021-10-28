@@ -1,0 +1,26 @@
+.footer {
+  background-color: #00FECA;
+  padding-top: 10px;
+  padding-bottom: 10px;
+ }
+
+.list-inline {
+  list-style: none;
+  text-align: center;
+}
+
+.list-inline > li {
+    display: inline;
+    list-style: none;
+    margin: 20px;
+}
+
+.footer i {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+ a:hover {
+  color: #B3619B;
+}

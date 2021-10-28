@@ -1,0 +1,19 @@
+.btn {
+  background-color: transparent;
+  color: #00FECA;
+  border: 1px solid #00FECA;
+  padding: 15px 30px;
+  border-radius: 50px;
+  box-shadow: 3px 3px 15px #00FECA;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 10px;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: #B3619B;
+  border: 1px solid #B3619B;
+  box-shadow: 3px 3px 15px #B3619B;
+}

@@ -1,0 +1,22 @@
+.hero {
+  height: 550px;
+  background-size: cover;
+  background-position: center;
+  color: #B0B0AF;
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  margin-left: 10%;
+  height: 50%;
+}
+
+.hero .container h1 {
+  margin: 5px 0;
+}
+
+.hero .container p {
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
